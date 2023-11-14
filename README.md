@@ -4,6 +4,7 @@
 
 * Name: Rodrigo Durán
 * Course: CPSC393
+* Email: roduran72@gmail.com
 * Assignment: Assignment 2
 
 ## Source Files
